@@ -1,0 +1,2 @@
+[16-Jun-2016 23:46:35 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/raditme/public_html/simdiklat/application/models/KaldikModel.php on line 136
+[23-Jun-2016 09:59:37 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/raditme/public_html/simdiklat/application/models/KaldikModel.php on line 72
